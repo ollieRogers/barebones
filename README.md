@@ -1,2 +1,1 @@
-# remora-brochure
-remora-brochureware
+# Barebones
